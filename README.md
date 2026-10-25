@@ -30,11 +30,11 @@ Android app that tells you exactly which documents to bring before visiting a go
 
 **Web & Frontend**
 
-![Web](https://skillicons.dev/icons?i=html,css,react,nextjs,astro,nodejs)
+![Web](https://skillicons.dev/icons?i=html,css,react,nextjs,astro)
 
 **Data & Backend**
 
-![Data](https://skillicons.dev/icons?i=mongodb,postgres,supabase) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+![Data](https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,supabase) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
 
 **AI**
 
