@@ -50,9 +50,9 @@ Android app that tells you exactly which documents to bring before visiting a go
 
 ## Get in touch
 
-- 💼 LinkedIn: _add your link_
+- 💼 LinkedIn: https://www.linkedin.com/in/jared-mesa/
 - 🌐 Portfolio: _add your link_
-- ✉️ Email: _add your email_
+- ✉️ Email: mesajared6@gmail.com
 
 <!-- Optional: add a stats card once you have more activity
 ![Jared's GitHub stats](https://github-readme-stats.vercel.app/api?username=scorpeejared&show_icons=true&hide_border=true)
